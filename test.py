@@ -16,6 +16,6 @@ def test_removeStudent():
 	assert mlopsObj.getTotalStudents() == 5
 
 def test_ClassName():
-	assert mlopsObj.getClassName() == "Machine Learning Operations (Sec-B)"
+	assert mlopsObj.getClassName() == "Machine Learning Operations (B)"
 
 
